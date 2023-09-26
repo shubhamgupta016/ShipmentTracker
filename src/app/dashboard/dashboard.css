@@ -1,0 +1,21 @@
+.Dashboard-menu{
+    display: flex;
+}
+.Dashboard-menu li{
+    margin-left: 25px;
+    list-style-type: none;
+}
+.Dashboard-menu li a{
+    text-decoration: none;
+}
+.Dashboard-menu h4{
+    margin: 0;
+}
+.heading{
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+}
+.Topic{
+    display:inlin;
+}
